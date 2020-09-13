@@ -1,2 +1,2 @@
-# Version Control with Git and GitHub
- This is a sample repository for the webinar on Git and GitHub.
+# Version control with Git and GitHub
+ Repository for the webinar.
