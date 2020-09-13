@@ -1,8 +1,11 @@
 # Version control with Git and GitHub
  Repository for the webinar.
+ Task was compeleted.
 
 
 
 1. Hritik Bhandari
 2. Abhishek Saxena
-2. Aditya Shukla
+3. Aditya Shukla
+4. Shubhangi Soni
+
