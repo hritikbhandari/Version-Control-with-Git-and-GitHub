@@ -1,8 +1,8 @@
 # Version control with Git and GitHub
- 
+
 
  <img src="Main.png">
- 
+
 
  Links for important Resources:
 
@@ -19,11 +19,11 @@
 3. Aditya Shukla
 4. Shubhangi Soni
 5. Nishnatadebnath
-6. Mohit 
+6. Mohit
 7. Shinjinee Maiti
 8. Anant Kanchan
 9. Sumanth
-
+10.Jayesh Jayanandan
 
 
 
