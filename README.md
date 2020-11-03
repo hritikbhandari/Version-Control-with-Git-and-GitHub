@@ -23,10 +23,10 @@
 7. Shinjinee Maiti
 8. Anant Kanchan
 9. Sumanth
+10. Sanskriti Khare
+11. Karan Bengani
 
-10. Karan Bengani
-
-11. Hritik Bhandari for CodeChef
+12. Hritik Bhandari for CodeChef
 
 
 
