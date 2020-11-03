@@ -23,10 +23,11 @@
 7. Shinjinee Maiti
 8. Anant Kanchan
 9. Sumanth
-10.Jayesh Jayanandan
+10. Jayesh Jayanandan
 11. Mimansa Sharma
 12. Karan Bengani
 13. Hritik Bhandari for CodeChef
+14. Kushagra Gupta
 
 
 
