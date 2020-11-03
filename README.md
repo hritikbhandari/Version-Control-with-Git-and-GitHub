@@ -1,8 +1,8 @@
 # Version control with Git and GitHub
- 
+
 
  <img src="Main.png">
- 
+
 
  Links for important Resources:
 
@@ -19,19 +19,16 @@
 3. Aditya Shukla
 4. Shubhangi Soni
 5. Nishnatadebnath
-6. Mohit 
+6. Mohit
 7. Shinjinee Maiti
 8. Anant Kanchan
 9. Sumanth
-
-
-13. sailashree
-
 10. Hritik Bhandari for CodeChef
-=======
-10. Mimansa Sharma
-11. Karan Bengani
-12. Hritik Bhandari for CodeChef
+11. Mimansa Sharma
+12. Karan Bengani
+13. sailashree
+14.Jayesh Jayanandan
+
 
 
 
